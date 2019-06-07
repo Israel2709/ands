@@ -1,0 +1,8 @@
+.gist-file .gist-data tbody {
+  background: #333;
+}
+.gist-file .gist-data tbody tr, .gist-file .gist-data tbody td {
+  color: white;
+}
+
+/*# sourceMappingURL=main.css.map */
